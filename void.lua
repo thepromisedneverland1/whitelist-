@@ -11,6 +11,6 @@ return {
     ["CryForCyr0"] = true,
     ["Test002533533"] = true,
     ["LockZzScm"] = true,
-    ["BuffetDragon228_2"] = true,
+    ["AshtvnGetBanPfff"] = true,
     ["darkgamer_ALT543"] = true,
 }
