@@ -1,6 +1,6 @@
 return {
     ['Lastenola'] = true,
-    ['78cvzl'] = true,
+    ['78cvzl'] = false,
     ['YOURBADS7'] = true,
     ["darkgamer_alt354"] = true,
     ["oooohmdr2010"] = true,
